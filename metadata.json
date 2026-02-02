@@ -1,0 +1,7 @@
+{
+  "name": "Flux: 3D 音樂視覺化工作室",
+  "description": "專業級開發工具，用於生成高效能 Python 3D 音樂視覺化腳本（結合 PyOpenGL 與 Librosa）。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
